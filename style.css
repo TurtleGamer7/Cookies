@@ -51,10 +51,8 @@ a:link{
   border-width: 2px;
   padding: 3px;
   padding: 3px;
-  display:flex;
-  flex-flow: wrap row;
   align-content: center;
-
+  width: 200px;
 }
 a:visited{ 
   border-style: groove;
