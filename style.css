@@ -1,0 +1,88 @@
+body {
+  background-color:beige;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align:center;
+  font-size: 40px;
+  color:firebrick;
+}
+h3{
+  text-align:center;
+  font-size: 24px;
+}
+img{
+  width:520px;
+  display:flex;
+  align-content: center;
+  justify-content: center;
+  border-style:groove;
+  border-color: chocolate;
+  border-width:thick;
+  margin-right: auto;
+  margin-left: auto;
+}
+h6{
+  text-decoration: underline;
+  font-size:20px;
+  margin:4px;
+}
+#or{
+  margin:3px;
+}
+h5{
+  margin:5px;
+  font-size:20px;
+}
+.ins{
+  text-decoration: underline;
+  text-align: center;
+  margin:.5px;
+}
+a:link{
+  border-style: groove;
+  border-radius: 5px;
+  border-color: brown;
+  background-color:#e7c879;
+  color:chocolate;
+  border-width: 2px;
+  padding: 3px;
+  padding: 3px;
+  display:flex;
+  flex-flow: wrap row;
+  align-content: center;
+
+}
+a:visited{ 
+  border-style: groove;
+border-radius: 5px;
+border-color: brown;
+background-color:#e7c879;
+color:chocolate;
+border-width: 2px;
+ 
+  }
+a:hover{
+  color:brown;
+  background-color:coral;
+  font-size:20px;
+}
+a:active{
+  color:chartreuse;
+}
+.where{
+  color:#3f609b;
+  font-size: 17px;
+  font-family:monospace;
+}
+.index{
+  text-align: center;
+}
+.img2:link{
+  border-style:none;
+  background-color:beige;
+}
+
